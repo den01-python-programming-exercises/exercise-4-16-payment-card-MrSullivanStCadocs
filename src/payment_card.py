@@ -4,4 +4,4 @@ class PaymentCard:
 
 
   def __str__(self):
-    return str("The card has a balance of " + str(self.opening_balance) + " pounds.")
+    return str("The card has a balance of " + str(self.opening_balance) + " pounds")
